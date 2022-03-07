@@ -14,6 +14,14 @@ The log of my #100DaysOfCode challenge. Started on 20220306.
 
 ![That's golang Gopher mascot](./img/gopher.png "Ready for some action.")
 ---
+### R1D1 - 20220307
+**Today's Progress**: Had my first steps with `go`. The basic "Hello World" first program, how comments are done, the `main` function, data types, variables and scopes.
+
+**Thoughts** I'm using [KodeKloud](https://kodekloud.com/). Bought a `go` training that they offer in [udemy](https://www.udemy.com/course/golang-for-beginners/). They have an amazing practice lab offer.
+
+**Link(s) to work**
+1. Got [this](https://go.dev/play/p/5tteqsEYh5E) example from the exercises. It shows a little about variables scope, about output format using `%.2f`, for example.
+---
 
 <!---
 # 100 Days Of Code - Log
