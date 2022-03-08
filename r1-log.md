@@ -22,6 +22,14 @@ The log of my #100DaysOfCode challenge. Started on 20220306.
 **Link(s) to work**
 1. Got [this](https://go.dev/play/p/5tteqsEYh5E) example from the exercises. It shows a little about variables scope, about output format using `%.2f`, for example.
 ---
+### R1D2 - 20220308
+**Today's Progress**: Decided to change from `golang` to `python`. It has more acceptance on my roles and it's more used today for automation tasks.
+
+**Thoughts** I'm using [KodeKloud](https://kodekloud.com/). Bought a `python` training that they offer in [udemy](https://www.udemy.com/course/python-entry-level-programmer-certification-pcep/). They have an amazing practice lab offer.
+
+**Link(s) to work**
+1. Just watched some videos and did some labs in the KodeKloud platform.
+---
 
 <!---
 # 100 Days Of Code - Log
