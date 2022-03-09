@@ -31,6 +31,15 @@ The log of my #100DaysOfCode challenge. Started on 20220306.
 1. Just watched some videos and did some labs in the KodeKloud platform.
 ---
 
+### R1D3 - 20220309
+**Today's Progress**: Did a lot of classes in the KodeKloud training, but I'm really bad trying to read code. :/
+
+**Thoughts** I need to practice and learn how to read code better. Things like loops, conditions, if, while, etc... I start reading the code and at the second iteration I don't have idea what is the value of the variable now. :/
+
+**Link(s) to work**
+1. Just watched some videos and did some labs in the KodeKloud platform.
+---
+
 <!---
 # 100 Days Of Code - Log
 
